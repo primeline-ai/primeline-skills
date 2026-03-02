@@ -1,0 +1,12 @@
+.DS_Store
+*.swp
+*.swo
+*~
+.env
+node_modules/
+__pycache__/
+_memory/
+_graph/
+_inbox/
+_handoffs/
+knowledge/

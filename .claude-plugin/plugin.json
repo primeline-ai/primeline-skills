@@ -1,0 +1,22 @@
+{
+  "name": "primeline-skills",
+  "version": "1.0.0",
+  "description": "5 production-grade workflow skills for Claude Code. Debugging, delegation, planning, code review, and configuration architecture.",
+  "author": {
+    "name": "PrimeLine",
+    "url": "https://primeline.cc"
+  },
+  "homepage": "https://github.com/primeline-ai/primeline-skills",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "agent-skills",
+    "skill-md",
+    "debugging",
+    "delegation",
+    "planning",
+    "code-review",
+    "developer-tools",
+    "productivity"
+  ]
+}
