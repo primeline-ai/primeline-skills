@@ -1,5 +1,8 @@
 # PrimeLine Skills
 
+
+![primeline-skills](assets/hero.png)
+
 **5 production-grade workflow skills for Claude Code.**
 
 Debugging, delegation, planning, code review, and configuration architecture - written from production experience and informed by the best open-source patterns.
