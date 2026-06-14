@@ -136,7 +136,7 @@ The free skills work well on their own. Kairn makes them learn and improve over 
 
 ## Credits
 
-Built on shoulders of giants. Each skill was informed by excellent open-source work. See [CREDITS.md](CREDITS.md) for original authors and what we learned from each.
+Built on shoulders of giants. Each skill was informed by excellent open-source work. See [CREDITS.md](CREDITS.md) for original authors and what I learned from each.
 
 ## License
 
